@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1631642975 source:c:\users\sajid\desktop\c++ projects\chips_in_pile\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
